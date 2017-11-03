@@ -1,6 +1,6 @@
 # IMDB practice project
 
-## Project Overview
+## Project Overview:
 In this practice project a labeled IMDB review dataset (positive or negative) is used to train a deep nueral network binary classifier.
 
 ## Steps:
